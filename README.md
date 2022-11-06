@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhshashank10
+- 👋 Hi, I’m @singhshashank10 (Shashank Singh)
 - 👀 I’m interested in ... Front-End development 
 - 🌱 I’m currently learning ... Javascript, Angular, Typescript and further new technologies
 - 📫 How to reach me ... thakurshashank247@gmail.com
